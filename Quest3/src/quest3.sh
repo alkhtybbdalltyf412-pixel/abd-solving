@@ -1,0 +1,2 @@
+mkdir door_configuration
+touch door_configuration/door_map
